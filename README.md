@@ -1,2 +1,2 @@
-State-Machine-Java-
+State-Machine-Java
 ===================

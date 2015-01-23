@@ -7,7 +7,7 @@ public abstract class State implements IState,IStateEvent{
 	private StateMachine sm;
 	private HashMap<Event, String> eventMap;
 	
-	State(){
+	public State(){
 		eventMap = new HashMap<Event, String>();
 	}
 	

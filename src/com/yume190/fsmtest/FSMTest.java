@@ -3,6 +3,8 @@ package com.yume190.fsmtest;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
+//import static org.junit.Assert.assertThat;
+//import static org.hamcrest.CoreMatchers.*;
 
 import org.junit.After;
 import org.junit.AfterClass;
